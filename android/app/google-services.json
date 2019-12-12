@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "485243001455",
+    "firebase_url": "https://cinemore-7c66a.firebaseio.com",
+    "project_id": "cinemore-7c66a",
+    "storage_bucket": "cinemore-7c66a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485243001455:android:45ce96a2303a53dc",
+        "android_client_info": {
+          "package_name": "com.heronymousbot.cinemore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "485243001455-tdsh8t9gfbi53tq6do955nfhefd0vkah.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8rPf0FUYWgkxpODLH73vwL_2aDRZIugI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "485243001455-tdsh8t9gfbi53tq6do955nfhefd0vkah.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
