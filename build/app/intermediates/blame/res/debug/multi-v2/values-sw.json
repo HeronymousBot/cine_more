@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\loren\\Documents\\flutter\\cine_more\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw\\values-sw.xml",
+            "outputFile": "C:\\Users\\loren\\Documents\\cine_more\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw\\values-sw.xml",
             "map": [
                 {
                     "source": "C:\\Users\\loren\\.gradle\\caches\\transforms-2\\files-2.1\\fa4518476fbb3cd716cd9088cef0637d\\res\\values-sw\\values.xml",
